@@ -23,7 +23,7 @@ title: Koubit # the main title
 tagline: Junior Backend Developer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Technical documentation backup blog
+  Technical documentation blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
