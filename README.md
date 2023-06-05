@@ -2,4 +2,4 @@
 
   # Koubit's Data Cloud Garden
 
-  백업용 블로그입니다.
+  개발 공부 기록을 위한 블로그입니다.
