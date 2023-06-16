@@ -51,7 +51,9 @@
 %table-cell {
   padding: 0.4rem 1rem;
   font-size: 95%;
-  white-space: nowrap;
+  // white-space: nowrap;
+  word-break: break-all;
+  border: 1px solid;
 }
 
 %link-hover {

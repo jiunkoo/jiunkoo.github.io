@@ -342,7 +342,8 @@ i {
 
     tbody {
       tr {
-        border-bottom: 1px solid var(--tb-border-color);
+        // border-bottom: 1px solid var(--tb-border-color);
+        border: 1px solid;
 
         &:nth-child(2n) {
           background-color: var(--tb-even-bg);
