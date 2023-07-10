@@ -1,0 +1,13 @@
+.tb-plain {
+    overflow: auto;
+    width: 100%;
+}
+.tb-plain table {
+    border-collapse: collapse;
+    table-layout: auto;
+    width: 100%;
+    height: 100%;
+}
+.txt-c {
+    text-align: center;
+}
